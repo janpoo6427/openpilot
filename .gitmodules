@@ -1,0 +1,3 @@
+[submodule "opendbc_repo"]
+	path = opendbc_repo
+	url = https://github.com/janpoo6427/opendbc
